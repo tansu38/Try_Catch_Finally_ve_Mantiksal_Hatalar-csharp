@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\yazılım\try_catch_finally_ve_mantiksal_hatalar-charp\bin\Debug\net7.0\try_catch_finally_ve_mantiksal_hatalar-charp.exe
+C:\Users\user\Desktop\yazılım\try_catch_finally_ve_mantiksal_hatalar-charp\bin\Debug\net7.0\try_catch_finally_ve_mantiksal_hatalar-charp.deps.json
+C:\Users\user\Desktop\yazılım\try_catch_finally_ve_mantiksal_hatalar-charp\bin\Debug\net7.0\try_catch_finally_ve_mantiksal_hatalar-charp.runtimeconfig.json
+C:\Users\user\Desktop\yazılım\try_catch_finally_ve_mantiksal_hatalar-charp\bin\Debug\net7.0\try_catch_finally_ve_mantiksal_hatalar-charp.dll
+C:\Users\user\Desktop\yazılım\try_catch_finally_ve_mantiksal_hatalar-charp\bin\Debug\net7.0\try_catch_finally_ve_mantiksal_hatalar-charp.pdb
+C:\Users\user\Desktop\yazılım\try_catch_finally_ve_mantiksal_hatalar-charp\obj\Debug\net7.0\try_catch_finally_ve_mantiksal_hatalar-charp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\yazılım\try_catch_finally_ve_mantiksal_hatalar-charp\obj\Debug\net7.0\try_catch_finally_ve_mantiksal_hatalar-charp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\yazılım\try_catch_finally_ve_mantiksal_hatalar-charp\obj\Debug\net7.0\try_catch_finally_ve_mantiksal_hatalar-charp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\yazılım\try_catch_finally_ve_mantiksal_hatalar-charp\obj\Debug\net7.0\try_catch_finally_ve_mantiksal_hatalar-charp.AssemblyInfo.cs
+C:\Users\user\Desktop\yazılım\try_catch_finally_ve_mantiksal_hatalar-charp\obj\Debug\net7.0\try_catch_finally_ve_mantiksal_hatalar-charp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\yazılım\try_catch_finally_ve_mantiksal_hatalar-charp\obj\Debug\net7.0\try_catch_finally_ve_mantiksal_hatalar-charp.dll
+C:\Users\user\Desktop\yazılım\try_catch_finally_ve_mantiksal_hatalar-charp\obj\Debug\net7.0\refint\try_catch_finally_ve_mantiksal_hatalar-charp.dll
+C:\Users\user\Desktop\yazılım\try_catch_finally_ve_mantiksal_hatalar-charp\obj\Debug\net7.0\try_catch_finally_ve_mantiksal_hatalar-charp.pdb
+C:\Users\user\Desktop\yazılım\try_catch_finally_ve_mantiksal_hatalar-charp\obj\Debug\net7.0\try_catch_finally_ve_mantiksal_hatalar-charp.genruntimeconfig.cache
+C:\Users\user\Desktop\yazılım\try_catch_finally_ve_mantiksal_hatalar-charp\obj\Debug\net7.0\ref\try_catch_finally_ve_mantiksal_hatalar-charp.dll
